@@ -1,0 +1,7 @@
+podname : mrelusw1
+tenantId : iics
+cloudType: "aws"
+accountId: "530774763960"
+accountName: "qa"
+region: us-west-2
+blueprint : usw1-blueprint

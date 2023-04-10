@@ -1,0 +1,7 @@
+podname : mrelids
+tenantId : iics
+cloudType: "aws"
+accountId: "530774763960"
+accountName: "qa"
+region: us-west-2
+blueprint : ids-blueprint
