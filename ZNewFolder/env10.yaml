@@ -1,0 +1,9 @@
+name: AshutoshBeta
+type: Test
+region: us-west-2
+podname: mrelusw1
+tenantId: iics
+cloudType: aws
+accountId: "530774763960"
+accountName: qa
+blueprint: usw1-blueprint
